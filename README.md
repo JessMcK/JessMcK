@@ -1,4 +1,4 @@
-Hello, I’m JessMcK. I’m an IT student interested in coding, art, music, writing, and graphic design.
+Hello, I’m JessMcK, a BIT graduate interested in coding, art, music, writing, and graphic design.
 
 My primary focus at present is on my Research Masters in IT, and on my work as a freelance web developer.
 
